@@ -137,5 +137,5 @@ if(!intrat){
 
 let necesita = stocFainaBaneasa.necesitaAprovizionare();
 if(necesita){
-  //dau telefon la furnizor
+  //dau telefon la furnizor...
 }
